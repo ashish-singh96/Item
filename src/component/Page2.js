@@ -9,51 +9,57 @@ const Page2 = () => {
                     <h1 className="text-2xl font-medium title-font mb-4 text-gray-900">Our Facilities</h1>
 
                 </div>
-                <div className="flex flex-wrap -m-4 ">
+                <div className="flex flex-wrap  ml-72 shadow-lg" style={{ width: "50%" }}>
                     <div className="p-4 lg:w-1/4 md:w-1/2">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="https://thumbs.dreamstime.com/b/maple-leaf-21079841.jpg" />
+                        <div className="h-full flex flex-col items-center text-center ">
+                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="./Images/2.png" />
+                            <p className='text-bold font-bold '>Lorem ipsum dolor sit amet</p>
                         </div>
                     </div>
                     <div className="p-4 lg:w-1/4 md:w-1/2">
                         <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="https://thumbs.dreamstime.com/b/maple-leaf-21079841.jpg" />
-
+                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="./Images/2.png" />
+                            <p className='text-bold font-bold'>Lorem ipsum dolor sit amet</p>
                         </div>
                     </div>
                     <div className="p-4 lg:w-1/4 md:w-1/2">
                         <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="https://thumbs.dreamstime.com/b/maple-leaf-21079841.jpg" />
-
+                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="./Images/2.png" />
+                            <p className='text-bold font-bold'>Lorem ipsum dolor sit amet</p>
                         </div>
                     </div>
                     <div className="p-4 lg:w-1/4 md:w-1/2">
                         <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="https://thumbs.dreamstime.com/b/maple-leaf-21079841.jpg" />
-                        </div>
-                    </div>
-
-                    <div className="p-4 lg:w-1/4 md:w-1/2">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4 "  src="https://thumbs.dreamstime.com/b/maple-leaf-21079841.jpg" />
+                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="./Images/2.png" />
+                            <p className='text-bold font-bold'>Lorem ipsum dolor sit amet</p>
                         </div>
                     </div>
 
                     <div className="p-4 lg:w-1/4 md:w-1/2">
                         <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="https://thumbs.dreamstime.com/b/maple-leaf-21079841.jpg" />
+                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4 " src="./Images/2.png" />
+                            <p className='text-bold font-bold'>Lorem ipsum dolor sit amet</p>
                         </div>
                     </div>
 
                     <div className="p-4 lg:w-1/4 md:w-1/2">
                         <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="https://thumbs.dreamstime.com/b/maple-leaf-21079841.jpg" />
+                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="./Images/2.png" />
+                            <p className='text-bold font-bold'>Lorem ipsum dolor sit amet</p>
                         </div>
                     </div>
 
                     <div className="p-4 lg:w-1/4 md:w-1/2">
                         <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="https://thumbs.dreamstime.com/b/maple-leaf-21079841.jpg" />
+                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="./Images/2.png" />
+                            <p className='text-bold font-bold'>Lorem ipsum dolor sit amet</p>
+                        </div>
+                    </div>
+
+                    <div className="p-4 lg:w-1/4 md:w-1/2">
+                        <div className="h-full flex flex-col items-center text-center">
+                            <img alt="team" className="flex-shrink-0 rounded-lg w-full h-auto max-w-full object-cover object-center mb-4" src="./Images/2.png" />
+                            <p className='text-bold font-bold'>Lorem ipsum dolor sit amet</p>
                         </div>
                     </div>
                 </div>
