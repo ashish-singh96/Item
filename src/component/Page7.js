@@ -26,7 +26,9 @@ const Page7 = () => {
                                 </svg>
                             </div>
 
-                            <img className="object-cover object-center h-40 p-5" src="../Images/4.jpg" alt="blog" />
+                             <div>
+                           <img className="object-cover object-center h-40 p-5" src="../Images/4.jpg" alt="blog" />
+                           </div>
                             <div className="p-6">
 
                                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Savannah Nguyen</h1>
@@ -61,7 +63,9 @@ const Page7 = () => {
                                 </svg>
                             </div>
 
-                            <img className="object-cover object-center h-40 p-5" src="../Images/4.jpg" alt="blog" />
+                             <div>
+                           <img className="object-cover object-center h-40 p-5" src="../Images/4.jpg" alt="blog" />
+                           </div>
                             <div className="p-6">
 
                                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Savannah Nguyen</h1>
@@ -77,7 +81,7 @@ const Page7 = () => {
 
 
 
-                    <div className="p-4 md:w-1/3">
+                    <div className="p-4 md:w-1/3 ">
                         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
                             <div className="flex items-center pl-48  space-x-1">
                                 <svg className="w-4 h-4  text-yellow-300" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
@@ -97,7 +101,9 @@ const Page7 = () => {
                                 </svg>
                             </div>
 
-                            <img className="object-cover object-center h-40 p-5" src="../Images/4.jpg" alt="blog" />
+                           <div>
+                           <img className="object-cover object-center h-40 p-5" src="../Images/4.jpg" alt="blog" />
+                           </div>
                             <div className="p-6">
 
                                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Savannah Nguyen</h1>

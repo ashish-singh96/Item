@@ -7,19 +7,22 @@ import Page4 from './component/Page4';
 import Page5 from './component/Page5';
 import Page6 from './component/Page6';
 import Page7 from './component/Page7';
+import Page8 from './component/Page8';
 
 function App() {
   return (
     <div className="App">
-      <Page1/>
-      <Page2/>
-      <Page3/>
-      <Page4/>
-      <Page7/>
-      <Page6/>
-      <Page5/>
-      
-     
+      <Page8 />
+      <Page1 />
+      <Page2 />
+      <Page3 />
+      <Page4 />
+      <Page7 />
+      <Page6 />
+      <Page5 />
+
+
+
     </div>
   );
 }
