@@ -29,24 +29,22 @@ const Page8 = () => {
                                 <a href="#" className="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">News & Events</a>
                             </li>
                             <li>
-                                <button class="bg-green-500 text-white font-bold py-2 px-4 rounded pt-0">
+                                <button className="bg-green-500 text-white font-bold py-2 px-4 rounded pt-0">
                                     Contact us
                                 </button>
                             </li>
                         </ul>
                     </div>
                 </div>
+
+               
             </nav>
 
-            <section className="w-full h-screen">
-                <img
-                    src="./Images/Doc.png"
-                    className="object-fill"
-                    alt="Image alt text" style={{ width: "100%", height: "100%" }}
-                />
-            </section>
-            
+           
+
         </div>
+
+
     )
 }
 

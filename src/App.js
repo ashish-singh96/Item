@@ -8,11 +8,23 @@ import Page5 from './component/Page5';
 import Page6 from './component/Page6';
 import Page7 from './component/Page7';
 import Page8 from './component/Page8';
+import ImageSlider from './component/ImageSlider';
+
+
+
 
 function App() {
+  const images = [
+    './Images/Group 18.png',
+    './Images/Slide2.jpeg',
+    './Images/Slide3.jpeg',
+    // Add more image URLs here
+  ];
+
   return (
     <div className="App">
       <Page8 />
+      <ImageSlider images={images} />
       <Page1 />
       <Page2 />
       <Page3 />
